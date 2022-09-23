@@ -18,7 +18,7 @@ const HomePage = () => {
 
         <p className="text-gray-600 text-xl max-w-sm mx-auto">
           I have 5 years of experience building and desgining software applications.
-          Currently, I'm a CS grad student as San Diego State University.
+          Currently, I am a CS grad student as San Diego State University.
           I love to work on web application using technologies like React, Angular, Tailwind, Next JS and GraphQL, Spring Boot, Python.
         </p>
 
